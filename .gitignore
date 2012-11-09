@@ -11,6 +11,5 @@ bundled
 *.dylib
 docs/source/api/generated
 docs/gh-pages
-setup.cfg
 MANIFEST
 .tox
